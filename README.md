@@ -18,9 +18,9 @@ All submission materials are available in this repository:
 - [Project README](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/README.md)
 - [Open the notebook in Google Colab](https://colab.research.google.com/github/kimirifelix-droid/Data-Analyst-Assessment/blob/main/Data_Analyst_Assessment_Solutions.ipynb)
 
-**Google Drive copy:** _Pending upload and share link._
+**Google Drive folder:** [Tunda Box Data Analyst Assessment](https://drive.google.com/drive/folders/1H1493TUIYEzENX2Y6tMsBf22_lqHK6CJ)
 
-Upload [Assessment_Responses.md](./Assessment_Responses.md) to Google Drive, set access for the intended reviewers, then replace the placeholder with its share link. Also upload the notebook if the submission requires both files on Drive.
+The Drive folder contains the assessment responses, Colab notebook, README, and thought-process document. The folder link uses the Drive account that is currently signed in; grant reviewer access in Drive if they need to open the files.
 
 ## Responses
 
