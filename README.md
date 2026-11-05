@@ -20,7 +20,7 @@ All submission materials are available in this repository:
 
 **Google Drive folder:** [Tunda Box Data Analyst Assessment](https://drive.google.com/drive/folders/1H1493TUIYEzENX2Y6tMsBf22_lqHK6CJ)
 
-The Drive folder contains the assessment responses, Colab notebook, README, and thought-process document. The folder link uses the Drive account that is currently signed in; grant reviewer access in Drive if they need to open the files.
+The Drive folder contains the assessment responses, Colab notebook, README, and thought-process document. The folder is set to **Anyone with the link — Viewer**, so reviewers can open the files without requesting access.
 
 ## Responses
 
