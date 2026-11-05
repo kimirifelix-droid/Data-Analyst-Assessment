@@ -33,6 +33,6 @@ The exercise gives only a small, invented extract. All numeric answers describe 
 ## Before submitting
 
 - Part 1 uses the assessment's own fictional business-case analysis as the project example and explicitly avoids implying a real-world business intervention.
-- Add your name and date to the response document if desired.
+- The response document identifies Felix Kimiri and is dated 5 November 2026.
 - Upload `Assessment_Responses.md` to your Google Drive and replace the Drive-link placeholder in `README.md`. The current session has no authorized Drive upload/share path.
 - Open the notebook in Google Colab and run all cells top-to-bottom. Confirm that all displayed output agrees with the written answers.

@@ -1,7 +1,7 @@
 # Data Analyst Assessment — Completed Responses
 
-**Name:** _Add your name_  
-**Date:** _Add submission date_
+**Name:** Felix Kimiri  
+**Date:** 5 November 2026
 
 > All data is invented. Answers below are based only on the sample in the assessment. Assumptions are stated where a definition could vary.
 >

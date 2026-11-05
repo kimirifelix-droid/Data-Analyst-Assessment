@@ -198,4 +198,4 @@ Both channels improved slightly, while the overall rate fell because Paid Social
 
 ## Submission note
 
-The experience response uses the fictional business-case analysis in this assessment as a project example and does not claim a real-world intervention. Add your name/date if desired before submitting.
+The experience response uses the fictional business-case analysis in this assessment as the project example and does not claim a real-world intervention. The response document is prepared for Felix Kimiri, dated 5 November 2026.
