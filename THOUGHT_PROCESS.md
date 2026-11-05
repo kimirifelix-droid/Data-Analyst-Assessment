@@ -1,5 +1,11 @@
 # Thought process and assumptions
 
+## Submission references
+
+- [Project README](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/README.md)
+- [Assessment response document](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/Assessment_Responses.md)
+- [Google Colab notebook](https://colab.research.google.com/github/kimirifelix-droid/Data-Analyst-Assessment/blob/main/Data_Analyst_Assessment_Solutions.ipynb)
+
 ## Scope and reproducibility
 
 The exercise gives only a small, invented extract. All numeric answers describe this sample, not the whole Tunda Box business. The notebook embeds the given rows so it runs in Colab without private data, a database connection, or file uploads.
@@ -28,5 +34,5 @@ The exercise gives only a small, invented extract. All numeric answers describe 
 
 - Replace the Part 1 experience prompt with a genuine example from your study, work, or personal projects. Do not claim experience or impact that is not yours.
 - Add your name and date to the response document if desired.
-- Upload `Assessment_Responses.md` to your Google Drive and replace the Drive-link placeholder in `README.md`. The local environment does not have Drive authorization, so it cannot create or share that Drive copy.
+- Upload `Assessment_Responses.md` to your Google Drive and replace the Drive-link placeholder in `README.md`. The current session has no authorized Drive upload/share path.
 - Open the notebook in Google Colab and run all cells top-to-bottom. Confirm that all displayed output agrees with the written answers.

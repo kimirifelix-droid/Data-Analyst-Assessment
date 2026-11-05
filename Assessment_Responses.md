@@ -4,6 +4,8 @@
 **Date:** _Add submission date_
 
 > All data is invented. Answers below are based only on the sample in the assessment. Assumptions are stated where a definition could vary.
+>
+> **Submission references:** [Project README](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/README.md) · [Colab notebook](https://colab.research.google.com/github/kimirifelix-droid/Data-Analyst-Assessment/blob/main/Data_Analyst_Assessment_Solutions.ipynb) · [Thought process](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/THOUGHT_PROCESS.md)
 
 ## Part 1: Your experience
 

@@ -8,11 +8,19 @@ This repository contains a complete, reproducible response to the fictional Tund
 - [Data_Analyst_Assessment_Solutions.ipynb](./Data_Analyst_Assessment_Solutions.ipynb) — runnable Google Colab notebook with the sample data, pandas analysis, SQL examples, and statistical calculations.
 - [THOUGHT_PROCESS.md](./THOUGHT_PROCESS.md) — assumptions, analytical choices, validation notes, and submission checklist.
 
-## Google Drive copy
+## Submission links
 
-The completed assessment document is [Assessment_Responses.md](./Assessment_Responses.md). It is ready to upload to Google Drive, but this workspace has no Google Drive connection, so a Drive copy and share link have **not** been created. After uploading the file, replace the placeholder below with the share link and make sure the intended reviewers have access:
+All submission materials are available in this repository:
+
+- [Assessment response document](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/Assessment_Responses.md)
+- [Colab notebook source](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/Data_Analyst_Assessment_Solutions.ipynb)
+- [Thought process and assumptions](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/THOUGHT_PROCESS.md)
+- [Project README](https://github.com/kimirifelix-droid/Data-Analyst-Assessment/blob/main/README.md)
+- [Open the notebook in Google Colab](https://colab.research.google.com/github/kimirifelix-droid/Data-Analyst-Assessment/blob/main/Data_Analyst_Assessment_Solutions.ipynb)
 
 **Google Drive copy:** _Pending upload and share link._
+
+Upload [Assessment_Responses.md](./Assessment_Responses.md) to Google Drive, set access for the intended reviewers, then replace the placeholder with its share link. Also upload the notebook if the submission requires both files on Drive.
 
 ## Responses
 
