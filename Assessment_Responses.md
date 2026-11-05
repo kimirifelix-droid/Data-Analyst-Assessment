@@ -11,7 +11,7 @@
 
 ### Your analysis
 
-_Personalize this before submitting with a truthful example from work, study, or a personal project._ Describe the question, data and methods, the finding, and what changed because of it. Do not claim a project or business impact that is not yours.
+One analysis I’m proud of from this assessment project used the fictional Tunda Box traffic data to answer whether Paid Social was causing the blended conversion rate to fall. I calculated conversion separately by channel and compared session shares across September and October. Organic conversion rose from 6.0% to 6.1%, and Paid Social rose from 2.0% to 2.1%, while Paid Social’s share of sessions grew from 20.0% to 44.1%; that lower-converting channel mix explains the drop in overall conversion from 5.2% to 4.34%. The finding changed my recommendation in the exercise: rather than pausing Paid Social based on the aggregate rate, I recommended investigating campaign quality and unit economics first. This was an analysis of invented assessment data, not a real business intervention.
 
 ### Conflicting numbers
 

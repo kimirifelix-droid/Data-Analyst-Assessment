@@ -26,7 +26,7 @@ The Drive folder contains the assessment responses, Colab notebook, README, and 
 
 ### Part 1: Your experience
 
-**Analysis I'm proud of:** _Personalize before submission._ For a study or personal project, describe a specific question you investigated, the data and method you used, what you found, and what decision or action changed as a result. I would avoid claiming a work project or business impact that I cannot substantiate.
+**Analysis I'm proud of:** One analysis I’m proud of from this assessment project used the fictional Tunda Box traffic data to answer whether Paid Social was causing the blended conversion rate to fall. I calculated conversion separately by channel and compared session shares across September and October. Organic conversion rose from 6.0% to 6.1%, and Paid Social rose from 2.0% to 2.1%, while Paid Social’s share of sessions grew from 20.0% to 44.1%; that lower-converting channel mix explains the drop in overall conversion from 5.2% to 4.34%. The finding changed my recommendation in the exercise: rather than pausing Paid Social based on the aggregate rate, I recommended investigating campaign quality and unit economics first. This was an analysis of invented assessment data, not a real business intervention.
 
 **Conflicting numbers:** I would first align on the metric definition, population, time window, timezone, status rules, and treatment of duplicates, refunds, and missing values. Then I would trace both numbers back to their source data and query logic, reproduce them on the same small sample, and identify the exact point of divergence. I would document the agreed definition, correct the query or source issue, and share the reconciled result and caveats with the colleague.
 
@@ -198,4 +198,4 @@ Both channels improved slightly, while the overall rate fell because Paid Social
 
 ## Submission note
 
-The experience response is intentionally a prompt for your own truthful example. Personalize it, add your name/date if needed, upload [Assessment_Responses.md](./Assessment_Responses.md) to Google Drive, and add its share link above before submitting.
+The experience response uses the fictional business-case analysis in this assessment as a project example and does not claim a real-world intervention. Add your name/date if desired before submitting.
